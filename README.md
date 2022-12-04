@@ -1,3 +1,3 @@
-# https://tech-trivia-aryan.netlify.app/
+#abc
 Developed by Aryan
 Techno Culture club
