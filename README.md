@@ -1,4 +1,4 @@
-# technofiction-aryan.netlify.app/
+# https://technofiction-aryan.netlify.app/
 
 Developed by Aryan
 
