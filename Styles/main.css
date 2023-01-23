@@ -468,7 +468,7 @@ color: white;
 }
 
 #about .about-content .about-left {
-  width: 100%;
+  width: 90%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
